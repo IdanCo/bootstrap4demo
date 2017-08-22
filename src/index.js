@@ -4,7 +4,7 @@
 import angular from 'angular';
 
 // import Bootstrap's compiled javascript:
-import 'bootstrap';
+// import 'bootstrap';
 
 // import general styling (including bootstrap):
 import './index.scss'
